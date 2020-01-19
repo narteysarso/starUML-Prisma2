@@ -1,0 +1,16 @@
+{
+    "name": "prisma.staruml",
+    "title": "Prisma2 generator",
+    "description": "Extension to generate prisma2 files based on UML",
+    "version": "1.0.0",
+    "keywords": ["prisma2", "generator", "graphql"],
+    "author": {
+      "name": "Nartey Kodjo-Sarso",
+      "email": "narteysarso@gmail.com",
+      "url": "https://github.com/narteysarso"
+    },
+    "license": "MIT",
+    "engines": {
+      "staruml": ">=3.0.0"
+    }
+  }
